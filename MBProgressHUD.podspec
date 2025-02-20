@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
                    DESC
   s.homepage     = "http://www.bukovinski.com"
   s.license      = { :type => 'MIT', :file => 'LICENSE' }
-  s.author       = { 'Matej Bukovinski' => 'matej@bukovinski.com' }
+  s.author       = { '86chenjie' => '86chenjie@gmail.com' }
   s.source       = { :git => "https://github.com/86chenjie/MBProgressHUD.git", :tag => s.version.to_s }
   s.ios.deployment_target = '9.0'
   s.tvos.deployment_target = '12.0'
