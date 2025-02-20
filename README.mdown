@@ -27,7 +27,7 @@ You will need the latest developer tools in order to build `MBProgressHUD`. Old 
 
 ### CocoaPods
 
-[CocoaPods](http://cocoapods.org) is the recommended way to add MBProgressHUD to your project.
+[CocoaPods-121](http://cocoapods.org) is the recommended way to add MBProgressHUD to your project.
 
 1. Add a pod entry for MBProgressHUD to your Podfile `pod 'MBProgressHUD', '~> 1.2.0'`
 2. Install the pod(s) by running `pod install`.
